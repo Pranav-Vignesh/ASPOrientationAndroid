@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "691131055264",
+    "firebase_url": "https://asp-today-android.firebaseio.com",
+    "project_id": "asp-today-android",
+    "storage_bucket": "asp-today-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691131055264:android:7cb62c1d45a28498345dc5",
+        "android_client_info": {
+          "package_name": "com.vigneshpranav.asporientation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691131055264-vf2q4kcktc51aut1jhni3fogm99sngao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vigneshpranav.asporientation",
+            "certificate_hash": "68af63906c035bc4e0a2058260446aeca5acb89a"
+          }
+        },
+        {
+          "client_id": "691131055264-u0fnlc6ipvseg96i01sid3mveiefj6ui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vigneshpranav.asporientation",
+            "certificate_hash": "28eb2a525a8334d0be239ef7b5fd63b7e30fd58d"
+          }
+        },
+        {
+          "client_id": "691131055264-86u47hdkal0kkpcss9trunun4557terv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMcjLMmPRWRTGrnIN4BDST98SIh1qv3fU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691131055264-86u47hdkal0kkpcss9trunun4557terv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
